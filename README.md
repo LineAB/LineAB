@@ -1,4 +1,4 @@
-## Hi there 👋
+## Why am I here?
 
 <!--
 **LineAB/LineAB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+If you've landed on my profile we must be working together on a project, but if not I'll direct you to notice how barren it is here.
+
+Hopefully, I've covered everything there is to know about me 😄.
+
+- 🌱 I'm currently learning about AI, and gathering material to read.
+- 📫 Can I reach you? Please don't try; I'm in the Data Science Learning Community (https://dslc.io) if you are as well our paths might cross one day.
+- 🤔 Do I need any help? I've received plenty of help.
+- ⚡ Fun fact: Owls are incredibly adept at silent flight, largely due to the unique structure of their feathers.
